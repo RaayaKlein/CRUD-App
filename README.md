@@ -1,4 +1,4 @@
 # CRUD-App
 NodeJS &amp; mongoDB students app
 
-<img src="CAPTURE.PNG"/>
+<img height=300 src="Capture.PNG"/>
